@@ -1,4 +1,4 @@
-# chronic-kidney-disease-predictor
+# Predciting Chronic Kidney Disease of Unknown origin (CKDu)
 ## Problem
 
 In the last two decades, chronic kidney disease of unknown etiology (CKDu) has emerged as a significant contributor
